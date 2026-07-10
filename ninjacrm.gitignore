@@ -1,1 +1,9 @@
-
+target/
+.classpath
+.project
+.settings/
+*.class
+*.log
+test-output/
+.DS_Store
+*.jar
